@@ -7,7 +7,7 @@ body{
     animation: shakebody linear 6s infinite;
 }
 .sky{
-    height: 100vh;
+    height: 112vh;
     width: 100%;
     background-image: url(background.jpg);
     background-repeat: no-repeat;
@@ -34,7 +34,7 @@ body{
 }
 
 .car{
-    height: 100px;
+    height: 111px;
     width: 380px;
     background-image: url(car_body.png);
     background-size: cover;
@@ -61,7 +61,7 @@ body{
     position: relative;
     top: -39px;
     left: 235px;
-    animation: wheelRotation linear .16s infinite;
+    animation: wheelRotation linear .6s infinite;
 
 }
 
